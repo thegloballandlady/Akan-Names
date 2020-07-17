@@ -10,3 +10,9 @@ body {
 .unimportant {
     color: blue;
 }
+h3 {
+    color: Black;
+}
+p:hover, .column:hover, .cat:hover {
+    background-color: black;
+}
